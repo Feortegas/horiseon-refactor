@@ -2,9 +2,14 @@
 
 Horiseon is a marketing agency website.
 
+## Live website link
+
+https://feortegas.github.io/horiseon-refactor/
+
 ## Installation
 
 No additional packages needed for this application.
+Fully tested on Google Chrome web browser.
 
 ## Technology
 
